@@ -5,7 +5,7 @@
 ## Links
 
 ### Unity Projects
-- [Fallout Fishin' Frenzy] (https://github.com/jefrancis/FalloutFishinFrenzyBuild)
+- [Fallout Fishin' Frenzy](https://github.com/jefrancis/FalloutFishinFrenzyBuild)
 
 ### GoDot Projects
 
