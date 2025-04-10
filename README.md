@@ -6,6 +6,7 @@
 
 ### Unity Projects
 - [Eye Decay](https://github.com/B4TM4NH8sU/EyeDecayBuild)
+- [Jett World](https://github.com/Chickenwing76523/JettWorldBuild)
 - [Fallout Fishin' Frenzy](https://github.com/jefrancis/FalloutFishinFrenzyBuild)
 ### GoDot Projects
 
