@@ -5,8 +5,8 @@
 ## Links
 
 ### Unity Projects
+- [Eye Decay](https://github.com/B4TM4NH8sU/EyeDecayBuild)
 - [Fallout Fishin' Frenzy](https://github.com/jefrancis/FalloutFishinFrenzyBuild)
-
 ### GoDot Projects
 
 ### Scratch Projects
