@@ -16,3 +16,4 @@
 
 ### Python Projects
 - [Turtle Chase](https://github.com/Grey590/TurtleChasePublic)
+- [Soul Catchers](https://github.com/Brynthian/GameJam2025)
