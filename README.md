@@ -10,6 +10,7 @@
 - [Death Run](https://github.com/kingjack3309/DeathRunBuilds)
 - [Click of Decay](https://github.com/Supersnorlax100/ClickOfDecayBuild)
 - [Fallout Fishin' Frenzy](https://github.com/jefrancis/FalloutFishinFrenzyBuild)
+- [Trashy Game](https://github.com/ZaraisEmo/TrashyGameBuilds)
 ### GoDot Projects
 - [Decay Dilemma](https://github.com/BobTheSniper301/Decay-Dilemma)
 - [Fungi Simulator 2025](https://github.com/ZayPixelated/FungiSimBuild)
