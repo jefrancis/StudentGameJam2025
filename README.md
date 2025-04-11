@@ -12,6 +12,7 @@
 - [Fallout Fishin' Frenzy](https://github.com/jefrancis/FalloutFishinFrenzyBuild)
 ### GoDot Projects
 - [Decay Dilemma](https://github.com/BobTheSniper301/Decay-Dilemma)
+- [Fungi Simulator 2025](https://github.com/ZayPixelated/FungiSimBuild)
 ### Scratch Projects
 
 ### Python Projects
