@@ -12,6 +12,7 @@
 - [Trashy Game](https://github.com/ZaraisEmo/TrashyGameBuilds)
 - [Runner](https://github.com/presbish09/Runner)
 - [Minecraft Clicker](https://drive.google.com/drive/folders/1qAAZ0jBVM1cy_hnF52psqqKSw79m0EXk?usp=sharing)
+- [Decaying Garden](https://drive.google.com/drive/folders/1WuHn-f5BAVJp3sa6umtifwIRjSG0ma7s?usp=sharing)
 ### GoDot Projects
 - [Decay Dilemma](https://github.com/BobTheSniper301/Decay-Dilemma)
 - [Fungi Simulator 2025](https://github.com/ZayPixelated/FungiSimBuild)
