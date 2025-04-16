@@ -17,7 +17,7 @@
 - [Decay Dilemma](https://github.com/BobTheSniper301/Decay-Dilemma)
 - [Fungi Simulator 2025](https://github.com/ZayPixelated/FungiSimBuild)
 ### Scratch Projects
-- [WIP 2.6](https://scratch.mit.edu/projects/1080283995/)
+- [Fungal Fighters 2.6](https://scratch.mit.edu/projects/1080283995/)
 ### Python Projects
 - [Turtle Chase](https://github.com/Grey590/TurtleChasePublic)
 - [Soul Catchers](https://github.com/Brynthian/GameJam2025)
